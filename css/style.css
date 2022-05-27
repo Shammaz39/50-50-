@@ -346,7 +346,7 @@ button {
 .about_section{
     width: 100%;
     float: left;
-    background-color: #f2f7fd;
+    background-color: #000;
     height: auto;
     padding-bottom: 90px;
 }
